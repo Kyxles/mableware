@@ -1,0 +1,14 @@
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Release\mableware.exe.config
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Release\mableware.exe
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Release\mableware.pdb
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Release\Siticone.UI.dll
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.csproj.AssemblyReference.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.Form1.resources
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.Properties.Resources.resources
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.csproj.GenerateResource.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.csproj.CopyComplete
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.exe
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Release\mableware.pdb

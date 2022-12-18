@@ -1,0 +1,14 @@
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Debug\mableware.exe.config
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Debug\mableware.exe
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Debug\mableware.pdb
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.csproj.AssemblyReference.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.Form1.resources
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.Properties.Resources.resources
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.csproj.GenerateResource.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.exe
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.pdb
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Bartek\source\repos\mableware\mableware\bin\Debug\Siticone.UI.dll
+C:\Users\Bartek\source\repos\mableware\mableware\obj\Debug\mableware.csproj.CopyComplete
